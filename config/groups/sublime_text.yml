@@ -1,0 +1,14 @@
+recipes:
+    mac_os_x:
+        - applications::sublime_text_3
+
+attributes:
+    sublime_text_packages:
+        -
+            name: Git
+            source: https://github.com/kemayo/sublime-text-git.git
+            branch: master
+        -
+            name: Modific
+            source: https://github.com/gornostal/Modific.git
+            branch: master
