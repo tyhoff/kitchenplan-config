@@ -23,7 +23,6 @@ recipes:
         - osxdefaults::finder_disable_the_warning_when_changing_a_file_extension
         - osxdefaults::finder_display_full_path
         - osxdefaults::finder_new_finder_windows_shows_homefolder
-        - osxdefaults::finder_new_finder_windows_shows_homefolder
         - osxdefaults::finder_search_the_current_folder_by_default
         - osxdefaults::finder_show_all_files
         - osxdefaults::finder_show_file_extensions
@@ -44,6 +43,7 @@ recipes:
 attributes:
     osxdefaults:
         polltime: 1
+        preferred_view_style: Nlsv
     dotfiles:
         vimusers:
             - root
