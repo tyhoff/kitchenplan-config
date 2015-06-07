@@ -30,7 +30,7 @@ recipes:
         - osxdefaults::finder_show_status_bar
         - osxdefaults::finder_small_sidebar_icon_size
         - osxdefaults::finder_unhide_home
-        - osxdefaults::finder_use_list_view_in_all_finder_windows_by_default
+        - osxdefaults::finder_set_preferred_view_style
         - osxdefaults::mail_check_for_new_messages
         - osxdefaults::mail_copy_email_addresses_instead_of_names_in_mail
         - osxdefaults::menu_add_battery_percentage
