@@ -1,7 +1,0 @@
-attributes:
-    homebrewalt:
-        taps:
-            - pebble/pebble-sdk
-        apps:
-            - arm-none-eabi-gcc
-            - pebble-sdk

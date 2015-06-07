@@ -1,6 +1,5 @@
 groups:
     - pebble
-    - pebble-dev
 
 recipes:
     global:
@@ -26,7 +25,7 @@ attributes:
             - libftdi
             - libusb-compat
             - autoconf
-            - automake 
+            - automake
             - libtool
             - libftdi0
             - pkg-config
