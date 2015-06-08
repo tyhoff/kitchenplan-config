@@ -31,5 +31,6 @@ attributes:
             - pkg-config
             - pebble-openocd
             - pebble-qemu
+            - arm-none-eabi-gcc
         cask_apps:
             - sourcetree
